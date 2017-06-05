@@ -38,12 +38,11 @@
   height: 1.5em;
   width: 3em;
   /* 0.06666em = 2px default */
-  border: 0.06666em solid #fff;
+  border: 0.6666em solid #fff;
   /* 0.3em = 9px default */
-  border-radius: 0.3em;
+  border-radius: 1.0em;
   /* Align top left. 0.5em = 15px default */
-  left: 0.5em;
-  top: 0.5em;
+  center: 0.5em;
 }
 
 /* The default color of control backgrounds is mostly black but with a little
